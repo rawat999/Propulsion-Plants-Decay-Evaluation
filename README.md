@@ -6,7 +6,7 @@ Mechademy Challenge
   
   ⚫ ‘GT Compressor decay state coefficient’
   
-  ⚫ GT Turbine decay state coefficient minimizing
+  ⚫ GT Turbine decay state coefficient
   
   
 2. propulsion.csv: Dataset
