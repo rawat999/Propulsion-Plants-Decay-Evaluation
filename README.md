@@ -5,3 +5,5 @@ Mechademy Challenge
   contain modelling for to predict the column
   ⚫ ‘GT Compressor decay state coefficient’
   ⚫ GT Turbine decay state coefficient minimizing
+  
+2. propulsion.csv: Dataset
